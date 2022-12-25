@@ -16,3 +16,6 @@ Project Installation Process:
 
 In case it shows error in the Login/Register page
 ➡Command "npm run dev" on terminal.
+
+Project Video:
+https://drive.google.com/drive/folders/1PvAtGOmpEost4s3uz9sksVS0GW6s4r-l?usp=sharing
